@@ -36,7 +36,7 @@ Check out [config.sample file](https://github.com/Itz-fork/Mega.nz-Bot/blob/main
 > Notice ⚠️:
 > Please refer the [Deployment](https://heroku.com/deploy?template=https://github.com/gradient8/Mega-Work) guide inorder to deploy this bot Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Itz-fork/X-Bin-Patch#deployment)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gradient8/Mega-Work)
 
 
 ### With VPS/PC
